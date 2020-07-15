@@ -1,16 +1,14 @@
 body{
-	padding: 50px 0 20px;
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	background-color: #BD8A68;
-	clear: both;
+	padding-bottom: 15px;
 }
 #header-nav{
 	background-color: #3C2414;
 }
-
 #nav-list a{
   color: #fff;
-  text-align: center;
+  font-size: 1.2em;
 }
 
 #nav-list a:hover , #nav-list a:focus{
@@ -19,6 +17,8 @@ body{
 
 span.my-brand{
 	color: #fff;
+	font-size: 1.4em;
+	padding-left: 20px;
 }
 
 h1{
@@ -37,8 +37,5 @@ section.lorem-menu{
 	padding-top: 5px;
 }
 
-#collapsable-nav {
-	background-color: #3C2414;
-}
 
 
