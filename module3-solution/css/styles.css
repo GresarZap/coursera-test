@@ -1,0 +1,44 @@
+body{
+	padding: 50px 0 20px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	background-color: #BD8A68;
+	clear: both;
+}
+#header-nav{
+	background-color: #3C2414;
+}
+
+#nav-list a{
+  color: #fff;
+  text-align: center;
+}
+
+#nav-list a:hover , #nav-list a:focus{
+  background: #BD6A68;
+}
+
+span.my-brand{
+	color: #fff;
+}
+
+h1{
+	padding-bottom: 10px;
+}
+
+section.lorem-menu{
+	margin: 0;
+	padding: 0px 20px 20px;
+	background-color: #D35C16;
+	text-align: justify;
+	color: #2D2D2D;
+}
+
+.lorem-menu h3{
+	padding-top: 5px;
+}
+
+#collapsable-nav {
+	background-color: #3C2414;
+}
+
+
